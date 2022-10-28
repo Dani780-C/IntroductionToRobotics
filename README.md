@@ -19,4 +19,15 @@ lab (as a trade-off for speed). Remember to be consistent in your style,
 check the style guide and the provided style document and use correct
 spacing.  
 
- [Code](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/homework_1.ino) is right here!
+ [Code](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/homework_1.ino) is right here!  
+ A [video](https://www.youtube.com/shorts/NGv-BCZm_9E) of this build with its full functionality can be found on YouTube! 
+
+What this home project looks like:  
+
+ ![Image](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/images/homework_1/homework_1_01.jpeg)  
+ 
+ ![Image](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/images/homework_1/homework_1_02.jpeg)  
+ 
+ ![Image](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/images/homework_1/homework_1_03.jpeg)  
+ 
+ 
