@@ -43,7 +43,7 @@ What this home project looks like:
     Be careful: pressing the button in any state other than state 1 should NOT yield any actions.  
     
 [Code](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/homework_2.ino) is right here!  
-A [video](https://youtu.be/SQXnwjndEao) of this build with its full functionality can be found on YouTube!  
+A [video](https://www.youtube.com/watch?v=SQXnwjndEao) of this build with its full functionality can be found on YouTube!  
 
 What this home project looks like:  
 
