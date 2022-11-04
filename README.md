@@ -43,14 +43,14 @@ What this home project looks like:
     Be careful: pressing the button in any state other than state 1 should NOT yield any actions.  
     
 [Code]() is right here!  
- A [video]() of this build with its full functionality can be found on YouTube! 
+A [video]() of this build with its full functionality can be found on YouTube! 
 
 What this home project looks like:  
 
- ![Image]()  
+ ![Image](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/images/homework_1/homework_2_01.jpeg)  
  
- ![Image]()  
+ ![Image](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/images/homework_1/homework_2_02.jpeg)  
  
- ![Image]()  
+ ![Image](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/images/homework_1/homework_2_03.jpeg)  
  
  
