@@ -42,8 +42,8 @@ What this home project looks like:
     4. `State 4` (initiated after state 3 ends): red for cars, blinking green for people and a beeping sound from the buzzer, at a constant in-terval, faster than the beeping in state 3. This state should last 4 seconds.  
     Be careful: pressing the button in any state other than state 1 should NOT yield any actions.  
     
-[Code]() is right here!  
-A [video]() of this build with its full functionality can be found on YouTube! 
+[Code](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/homework_2.ino) is right here!  
+A [video](https://youtu.be/SQXnwjndEao) of this build with its full functionality can be found on YouTube!  
 
 What this home project looks like:  
 
