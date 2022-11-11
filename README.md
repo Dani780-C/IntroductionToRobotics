@@ -77,14 +77,14 @@ Clicking the joystick should save the segment state and exit back to
 state 1.  
 
 [Code](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/homework_3.ino) is right here!  
-A [video](https://www.youtube.com/watch?v=SQXnwjndEao) of this build with its full functionality can be found on YouTube!  
+A [video](https://youtube.com/shorts/00I67F5Xatk) of this build with its full functionality can be found on YouTube!  
 
 What this home project looks like:  
 
- ![Image](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/images/homework_1/homework_2_01.jpeg)  
+ ![Image](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/images/homework_1/homework_3_01.jpeg)  
  
- ![Image](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/images/homework_1/homework_2_02.jpeg)  
+ ![Image](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/images/homework_1/homework_3_02.jpeg)  
  
- ![Image](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/images/homework_1/homework_2_03.jpeg)  
+ ![Image](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/images/homework_1/homework_3_03.jpeg)  
  
  
