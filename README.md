@@ -88,7 +88,7 @@ What this home project looks like:
  ![Image](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/images/homework_1/homework_3_03.jpeg)  
  
 
-## Homework 3
+## Homework 4
 
 ### Tasks:  
   * Components: a joystick, a 4 digit 7-segment display, a 74hc595 shift
