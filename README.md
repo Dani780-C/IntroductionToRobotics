@@ -132,7 +132,7 @@ What this home project looks like:
 ## Homework 5  
 
 [Code](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/homework_5.ino) is right here!  
-A [video](https://www.youtube.com/shorts/x7hwTcd5USA) of this build with its full functionality can be found on YouTube!  
+A [video](https://www.youtube.com/watch?v=TlQCE4Fu_DY) of this build with its full functionality can be found on YouTube!  
 
 What this home project looks like:  
 
