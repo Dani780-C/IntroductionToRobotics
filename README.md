@@ -127,3 +127,17 @@ What this home project looks like:
  ![Image](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/images/homework_1/homework_4_02.jpeg)  
  
  ![Image](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/images/homework_1/homework_4_03.jpeg)  
+ 
+
+## Homework 5  
+
+[Code](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/homework_5.ino) is right here!  
+A [video](https://www.youtube.com/shorts/x7hwTcd5USA) of this build with its full functionality can be found on YouTube!  
+
+What this home project looks like:  
+
+ ![Image](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/images/homework_1/homework_5_01.jpeg) 
+ 
+ ![Image](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/images/homework_1/homework_5_02.jpeg) 
+ 
+ ![Image](https://github.com/Dani780-C/IntroductionToRobotics/blob/main/images/homework_1/homework_5_03.jpeg) 
